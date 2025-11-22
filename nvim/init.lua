@@ -1,0 +1,6 @@
+require('plugins')
+require('remap')
+require('lsp')
+require('theme')
+require('telescope')
+require('oilset')
